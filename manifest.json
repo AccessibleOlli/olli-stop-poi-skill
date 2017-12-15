@@ -1,0 +1,20 @@
+{
+  "name" : "Olli CES POI Skill",
+  "description": "POI Skill for Olli CES demo",
+  "private": false,
+  "author" : "Mark Watson",
+  "version" : "0.0.1",
+  "license" : "Apache-2.0",
+  "threshold": 0.5,
+  "languages": [
+    "en-US"
+  ],
+  "nlu": [
+    "regexp",
+    "wcs"
+  ],
+  "tags": [
+    "olli",
+    "poi"
+  ]
+}

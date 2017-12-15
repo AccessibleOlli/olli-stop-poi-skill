@@ -1,0 +1,27 @@
+{
+  "restaurant" : {
+		"visibility" : "always",
+		"entities" : [
+    ]
+  },
+  "medical" : {
+		"visibility" : "always",
+		"entities" : [
+    ]
+  },
+  "hospital" : {
+		"visibility" : "always",
+		"entities" : [
+    ]
+  },
+  "doctor" : {
+		"visibility" : "always",
+		"entities" : [
+    ]
+  },
+  "pharmacy" : {
+		"visibility" : "always",
+		"entities" : [
+    ]
+  }
+}

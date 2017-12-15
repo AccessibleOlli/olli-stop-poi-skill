@@ -1,0 +1,51 @@
+{
+  "intents": [
+    {
+      "name": [
+        "restaurant"
+      ],
+      "grammar": [
+        "[show me|find|list] {cuisine} [restaurant|restaurants] [near|at] {location}"
+      ]
+    },
+    {
+      "name": [
+        "medical"
+      ],
+      "grammar": [
+        "[show me|find|list] [medical|medical facility|medical facilities] [near|at] {location}",
+        "[show me|find|list] [health|health facility|health facilities] [near|at] {location}",
+        "[show me|find|list] [healthcare|healthcare facility|healthcare facilities] [near|at] {location}"
+      ]
+    },
+    {
+      "name": [
+        "hospital"
+      ],
+      "grammar": [
+        "[show me|find|list] [hospital|hospitals] [near|at] {location}"
+      ]
+    },
+    {
+      "name": [
+        "doctor"
+      ],
+      "grammar": [
+        "[show me|find|list] [doctor|doctors] [near|at] {location}",
+        "[show me|find|list] [physician|physicians] [near|at] {location}"
+      ]
+    },
+    {
+      "name": [
+        "pharmacy"
+      ],
+      "grammar": [
+        "[show me|find|list] [pharmacy|pharmacies] [near|at] {location}"
+      ]
+    }
+  ],
+  "entities": {
+  },
+  "synonyms": [
+  ]
+}

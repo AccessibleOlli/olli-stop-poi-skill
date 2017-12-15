@@ -44,3 +44,4 @@ db
 recycle
 logs
 *.log
+manifest.yml

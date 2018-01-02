@@ -6,7 +6,7 @@ module.exports = (location) => {
   else if (ollistop === 'peace plaza') {
     return [44.022475156222, -92.464548669579];
   }
-  else if (ollistop === 'historic 3rd street') {
+  else if (ollistop === 'historic 3rd street' || ollistop === 'restaurant district') {
     return [44.020596506866, -92.464536948532];
   }
   else if (ollistop === 'discovery square') {
